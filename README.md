@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on a FiveM Roleplay core in Typescript.
 - 📫 Discord : MRV#0404
 
-[![MRV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRV6&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![MRV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRV6&show_icons=true&theme=dark&hide=issues&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRV6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MRV6/MRV6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
