@@ -1,6 +1,6 @@
 ### Hey :wave:
 
-- 🔭 I’m currently working on a FiveM project in Typescript.
+- ⚙️ I’m currently working on a FiveM project in TypeScript.
 - 📫 Discord : MRV#0045
 <!--
 **MRV6/MRV6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
