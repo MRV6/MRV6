@@ -1,5 +1,4 @@
 ### <h1 align="center">Hey :wave:</h1>
-
 - ⚙️ I’m currently working on a FiveM project in TypeScript.
 - 📫 Discord : MRV#0404
 <!--
