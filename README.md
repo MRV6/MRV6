@@ -2,14 +2,14 @@
 - ⚙️ I’m currently working on a FiveM project in TypeScript.
 - 📫 Discord : MRV#0404
 
-## Backend
+## Backend knowledge
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50; height=50></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50; height=50></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" width=50; height=50></img>
 </div>
 
-## Frontend
+## Frontend knowledge
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=50; height=50></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=50; height=50></img>
