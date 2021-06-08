@@ -2,7 +2,7 @@
 - ⚙️ I’m currently working on a FiveM project in TypeScript.
 - 📫 Discord : MRV#0404
 
-# Knowledges :
+# Knowledges
 ## Backend
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50; height=50></img>
