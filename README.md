@@ -3,19 +3,23 @@
 - 📫 Discord : MRV#0404
 
 # Knowledges
-## Backend
-<div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50; height=50></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50; height=50></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" width=50; height=50></img>
-</div>
+<details>
+  <summary>Backend</summary>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50; height=50></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50; height=50></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" width=50; height=50></img>
+  </div>
+</details>
 
-## Frontend
-<div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=50; height=50></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=50; height=50></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50; height=50></img>
-</div>
+<details>
+  <summary>Frontend</summary>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=50; height=50></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=50; height=50></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50; height=50></img>
+  </div>
+</details>
 <!--
 **MRV6/MRV6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
